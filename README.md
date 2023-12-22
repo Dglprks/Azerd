@@ -12,8 +12,10 @@
 <pre><code>wget https://raw.githubusercontent.com/Dglprks/Azerd/ABSTRAK/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
-- UBUNTU 20
-- DEBIAN 10 ( Recomended )
+- UBUNTU 18
+- UBUNTU 20 ( Recommended )
+- DEBIAN 10 ( Recommended )
+- DEBIAN 11
 
 ### PORT INFO
 ```
@@ -39,6 +41,4 @@ FaiqXid :
 
 <a href="https://t.me/idFaiq" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
-```
-``
 ```
